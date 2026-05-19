@@ -1,4 +1,4 @@
-### Welcome to my page
+### Welcome to my github, I mostly have my code behind private work/school repos...but here are some other notable things about me
 
 I build and deploy enterprise AI systems, and I'm spending the next year going deep on the infrastructure that runs them.
 
@@ -17,7 +17,7 @@ I build and deploy enterprise AI systems, and I'm spending the next year going d
 **Systems foundation**
 - **AOS** — Advanced Operating Systems (CS 6210): distributed systems, RPC, barrier synchronization, scheduling, and the systems primitives underneath modern cloud infrastructure
 - **GIOS** — Graduate Introduction to Operating Systems (CS 6200): processes, threads, IPC, synchronization, virtualization, and the OS internals every systems engineer should have in their hands
-- **SDCC** — System Design for Cloud Computing: scalable system design across compute, storage, and networking layers — what it actually takes to build cloud-scale infrastructure
+- **SDCC** — System Design for Cloud Computing (CS6211): scalable system design across compute, storage, and networking layers — what it actually takes to build cloud-scale infrastructure
 - **CN** — Computer Networks (CS 6250): routing, congestion control, SDN, and the protocols that hold the internet together
 
 **AI / Data**
